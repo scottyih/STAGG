@@ -1,0 +1,7 @@
+who is e1 brother	people person sibling_s people sibling_relationship sibling
+who is e1 brother	people person parents
+who is e1 brother	people person height_meters
+who is e1 brother	people person profession
+who is e1 brother	people person ethnicity
+who is e1 brother	celebrities celebrity sexual_relationships celebrities romantic_relationship celebrity
+who is e1 brother	celebrities celebrity sexual_relationships celebrities romantic_relationship relationship_type

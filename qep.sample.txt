@@ -1,0 +1,7 @@
+who is justin bieber brother	justin bieber people person sibling_s people sibling_relationship sibling
+who is justin bieber brother	justin bieber people person parents
+who is justin bieber brother	justin bieber people person height_meters
+who is justin bieber brother	justin bieber people person profession
+who is justin bieber brother	justin bieber people person ethnicity
+who is justin bieber brother	justin bieber celebrities celebrity sexual_relationships celebrities romantic_relationship celebrity
+who is justin bieber brother	justin bieber celebrities celebrity sexual_relationships celebrities romantic_relationship relationship_type
